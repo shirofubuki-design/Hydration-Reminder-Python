@@ -71,6 +71,12 @@ python -m PyInstaller --onefile --windowed --name HydrationReminder --add-data "
 
 O executável será criado na pasta `dist`.
 
+Iniciar automaticamente com o Windows
+1. Pressione Win + R.
+2. Digite shell:startup.
+3. Crie um atalho para HydrationReminder.exe nessa pasta.
+4. No campo Destino das propriedades, acrescente --minimized.
+
 ## 📚 Aprendizados
 
 Durante o desenvolvimento, pratiquei conceitos como:
