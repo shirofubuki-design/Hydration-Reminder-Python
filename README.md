@@ -31,11 +31,17 @@ O projeto começou com notificações simples do Windows e evoluiu para uma apli
 | JSON | Persistência local dos dados |
 | PyInstaller | Criação do executável `.exe` |
 
-## 📸 Interface
+## 📸 Interface do aplicativo
 
-Adicione aqui uma captura de tela da aplicação.
+### Tela principal
+![Interface principal](screenshots/interface.png)
 
-![Hydration Reminder](screenshots/interface.png)
+### Notificação personalizada
+![Notificação de hidratação](screenshots/notificacao.png)
+
+### Funcionamento na bandeja do Windows
+![Bandeja do Windows](screenshots/bandeja_windows.png)
+  
 
 ## ⚙️ Como executar
 
