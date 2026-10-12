@@ -35,7 +35,7 @@ O projeto começou com notificações simples do Windows e evoluiu para uma apli
 
 Adicione aqui uma captura de tela da aplicação.
 
-`![Hydration Reminder](screenshots/interface.png)`
+![Hydration Reminder](screenshots/interface.png)
 
 ## ⚙️ Como executar
 
